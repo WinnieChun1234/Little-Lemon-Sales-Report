@@ -2,7 +2,7 @@
 
 This is a graded assignment in the course Database Clients from Meta on Coursera. In this course, I chose to setup MySQL in the conda environment and run the code on jupypter notebooks for simplicity. 
 
-### Numbers of task have been done including:
+### Tasks:
 - Create connection between Python and MySQL database through MySQL Connector/Python API 
 - Create a cursor object to communicate with MySQL
 - Create a database
